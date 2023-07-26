@@ -1,9 +1,9 @@
 # clock
 amazing clock using( html ,css ,js)
-<p align="center">
-  <img src="https://drive.google.com/file/d/11QkbrE_v6bYJsv-hLPeHu777WEsGKD3N/view?usp=sharing" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
-</p>
+ 
+<img src="https://drive.google.com/uc?id=1bXzYeegauqB2M6-VZwitEeXHmMiYZIUY"
+     alt="sample image"
+     style="display: block; margin-right: auto; margin-left: auto; width: 90%;
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)" />
 
-https://doc-10-b4-docs.googleusercontent.com/docs/securesc/9u82vhcv3v6vbb8mvimqotc3tsrfqqan/ub1ibi4k2ho805dr1skji96om9her3mr/1690358175000/06906402613907762384/06906402613907762384/11QkbrE_v6bYJsv-hLPeHu777WEsGKD3N?ax=AGtFMPVQ1fGswdawYSneTPIzY2y7_at6pWnMh3PVm3oLWH5-mjaD3bjh9iiBWn3KXeAgqFATcOjlLVa0HHOttrtxoocw2CZpdkAEUJ022oHz5O9kihoNwWR2FvePWofVLuVo7L4dfNiiNRyzJhQgqGvdsVDAiOjBVb5-qC63CuH4wSgl_hSU5iD0AKK4qXyxvIoGenZW-BQhGu9Adgwj0oxyVQJjemr6C62h6_DL2ajo1obHcaSYcDULIIuQeGAqwm-Af6g9HZ4OyHw6J4r8ujPgl0gkiYW5aj_znqbPBxrfoD7ZEUv3j1VpCLegXyOdddHdSa8vob8Ab1gjjwV9RVwIJcipOBUQHftfQ0LpJLfK--hPJUMW4qj2kJEr_WeEkzKQxuHdHCK5MajYiCmOfReAXwIHcutT0Dv4LsrxgL8MD9B_H3HtEK-UrVuqrfyd7wtEndXdGPNabW2BqithstmHJLOa2DsOvonc3RJjwXt7kKYlfbUiE0Lw0B6ivPbLQHRC1QaJZJxtofOqyyLNKO9b8fJeE4hur2OaUMpivEG_nmb3qIdFUZEh5c1_dpa8k4yWcNyD-5pWcPPLC8IEA0ZCnNREvh-MUoCvgNqzURIxVBQnLK3WwOB4sfNPGKbAMZJqE6rVZ3ACYL5Id2rSkWMH498l6bcY0Pj8gPkJ66LA3ueHtPQqbFFrrgvIQXyakVphDZP8TzGGoFlN5DdgOR_MFBv8e1FWx6-ceg9BoWnAKJWZiVRBQVnwGi7KgSrqD6YT5AeH0_HbuiOx6opbssNcWj18S9iVN2N3VJxlaXOeRpPgRX_B3v4pH4EUYZOT2PnEiOn7ulJcJhrFUl99QCAU3YFgwNZafcormGpfy2XSpaAzG960outOi__8GhRs5WM&uuid=a6bfaf5b-1a5f-484e-bab7-78b5989acae8&authuser=0&nonce=u41plb6b1d6n0&user=06906402613907762384&hash=6kipkf6rq7v6ajppm1r2ar8v9h4nio5u
 ![Example Image](https://drive.google.com/uc?id=11QkbrE_v6bYJsv-hLPeHu777WEsGKD3N)
