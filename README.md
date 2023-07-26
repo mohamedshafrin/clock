@@ -1,6 +1,6 @@
 # clock
 amazing clock using( html ,css ,js)
- #Analog clock with backgrouond
+ # Analog clock with background image
 <img src="https://drive.google.com/uc?id=11QkbrE_v6bYJsv-hLPeHu777WEsGKD3N"
      alt="sample image"
      style="display: block; margin-right: auto; margin-left: auto; width: 90%;
