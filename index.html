@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="indicator">
+        <span id="hour" class="hand hour"></span>
+        <span id="min" class="hand min"></span>
+        <span id="sec" class="hand sec"></span>
+      </div>
+      <div class="bg-img">
+        <img
+          class="img"
+          src="https://images.pexels.com/photos/3481556/pexels-photo-3481556.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        />
+      </div>
+      <div class="clock">
+        <span style="--i: 1"><b>1</b></span>
+        <span style="--i: 2"><b>2</b></span>
+        <span style="--i: 3"><b>3</b></span>
+        <span style="--i: 4"><b>4</b></span>
+        <span style="--i: 5"><b>5</b></span>
+        <span style="--i: 6"><b>6</b></span>
+        <span style="--i: 7"><b>7</b></span>
+        <span style="--i: 8"><b>8</b></span>
+        <span style="--i: 9"><b>9</b></span>
+        <span style="--i: 10"><b>10</b></span>
+        <span style="--i: 11"><b>11</b></span>
+        <span style="--i: 12"><b>12</b></span>
+      </div>
+
+      <script>
+        const hHand = document.getElementById("hour");
+        const mHand = document.getElementById("min");
+        const sHand = document.getElementById("sec");
+
+        const ROTATE_COUNTS = 60;
+        const HOUR_ROTATE_COUNTS = 12;
+
+        setInterval(update, 1000);
+
+        function update() {
+          let date = new Date();
+
+          var SEC = (date.getSeconds() / ROTATE_COUNTS) * 360;
+          var MIN = (date.getMinutes() / ROTATE_COUNTS) * 360;
+          var HOURS = (date.getHours() / HOUR_ROTATE_COUNTS) * 360;
+
+          sHand.style.transform = `rotate(${SEC}deg)`;
+          mHand.style.transform = `rotate(${MIN}deg)`;
+          hHand.style.transform = `rotate(${HOURS}deg)`;
+        }
+      </script>
+    </div>
+  </body>
+</html>
